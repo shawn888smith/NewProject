@@ -1,0 +1,21 @@
+/* Center the carousel on the page */
+.carousel {
+    max-width: 600px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.card {
+    border: none;
+}
+
+/* Customize card title and text */
+.card-title {
+    font-size: 1.25rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card-text {
+    text-align: center;
+}
